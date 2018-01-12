@@ -7,3 +7,5 @@ pytz==2016.4
 requests==2.10.0
 sparkpost==1.2.0
 xlrd==1.0.0
+Chinmayee:
+https://cas.mcgill.ca/cas/login?service=https%3A%2F%2Fnimbus.mcgill.ca%2FuApply%2Fj_spring_cas_security_check%3Flang%3Den&locale=en
